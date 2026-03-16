@@ -1,5 +1,3 @@
----
-
 # 1. List (ro‘yxat) tushunchasi
 
 ## Savol 1
